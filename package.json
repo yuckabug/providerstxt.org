@@ -1,0 +1,13 @@
+{
+  "name": "providerstxt.org",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "4.15.2"
+  },
+  "packageManager": "bun@1.3.0"
+}
