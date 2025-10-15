@@ -4,8 +4,8 @@
     "": {
       "name": "providerstxt.org",
       "devDependencies": {
-        "lefthook": "^1.13.6",
-        "prettier": "^3.6.2",
+        "lefthook": "1.13.6",
+        "prettier": "3.6.2",
         "wrangler": "4.15.2",
       },
     },
